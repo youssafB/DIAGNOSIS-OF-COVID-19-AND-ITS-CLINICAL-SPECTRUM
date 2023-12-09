@@ -1,7 +1,8 @@
 ## Exploratory Data Analysis (EDA) Package Objective
 
-The primary objective of this Exploratory Data Analysis (EDA) package is to gain a comprehensive understanding of our dataset and lay the foundation for an initial modeling strategy. Remember, a small step forward is better than a big step backward.
+Note: This document serves as a comprehensive report derived from our Exploratory Data Analysis (EDA), providing insights into the dataset's structure, variable relationships, and potential modeling strategies.
 Checklist
+
 ### Form Analysis
 
     Target Variable: SARS-Cov-2 exam result
