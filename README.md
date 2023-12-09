@@ -1,9 +1,8 @@
-Exploratory Data Analysis (EDA) Package
-Objective
+## Exploratory Data Analysis (EDA) Package Objective
 
 The primary objective of this Exploratory Data Analysis (EDA) package is to gain a comprehensive understanding of our dataset and lay the foundation for an initial modeling strategy. Remember, a small step forward is better than a big step backward.
 Checklist
-Form Analysis
+### Form Analysis
 
     Target Variable: SARS-Cov-2 exam result
     Rows and Columns: 5644 rows, 111 columns
@@ -12,7 +11,7 @@ Form Analysis
         Numerous NaN values (over 90% for half of the variables)
         Two data groups with 76% and 89% missing values, related to viral tests and blood levels
 
-Background Analysis
+### Background Analysis
 
     Target Visualization:
         10% positive cases (558 out of 5000)
@@ -27,7 +26,7 @@ Background Analysis
         Target/age: Low-age individuals seem less affected - caution, age is unknown, and dataset date is unclear
         Target/viral: Rare double infections, e.g., Rhinovirus/Enterovirus positive - COVID-19 negative, warrant further investigation
 
-Detailed Analysis
+### Detailed Analysis
 
     Variable/Variable Relationships:
         Blood_data/blood_data: Some variables highly correlated (+0.9, to monitor)
@@ -39,7 +38,7 @@ Detailed Analysis
     NaN Analysis:
         Viral: 1350 (92/8), Blood: 600 (87/13), Both: 90
 
-Null Hypotheses (H0)
+### Null Hypotheses (H0)
 
     Individuals with COVID-19 have significantly different Leukocytes, Monocytes, Platelets levels.
         H0: Mean levels are EQUAL between positive and negative individuals.
