@@ -19,6 +19,7 @@ In my data preprocessing strategy, I adopt an iterative approach that begins wit
  <center>
   <img src="https://github.com/youssafB/EDA-project-Cov19/blob/main/strategy.png" alt="Strategy image" width="700">
 </center>
+
  ## 4 Modeling:
   -Goal: Build machine learning models that fulfill our defined objective.
   -View the Jupyter Notebook for Modeling [here](link_to_jupyter_notebook).
