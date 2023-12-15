@@ -1,19 +1,17 @@
 PROJECT: DIAGNOSIS OF COVID-19 AND ITS CLINICAL SPECTRUM
 In this project, my aim is to apply and enhance my theoretical knowledge by working with a real dataset related to the diagnosis of COVID-19 and its clinical spectrum. The specific strategy involves the following steps:
-
-    ##1 Define a Measurable Objective:
+ ##1 Define a Measurable Objective:
         Objective: Predict whether a person is affected by the coronavirus based on available clinical data with a recall rate of 70%.
-
-    ##2 Exploratory Data Analysis (EDA):
+ ##2 Exploratory Data Analysis (EDA):
         - Objective: Gain maximum understanding of the dataset to chose a robust modelization strategy.
         - Check out the detailed EDA report for this project [here](link_to_eda_report).
         - View the Jupyter Notebook for EDA [here](link_to_jupyter_notebook).
 
-     ##3 Data Preprocessing:
+ ##3 Data Preprocessing:
         - Objective: Transform the data into a suitable format for building the machine learning model.
         - Data Preprocessing Strategy: In my data preprocessing strategy, I adopt an iterative approach that begins with essential preprocessing activities such as encoding categorical variables and handling missing values.
 
-     ##4 Modeling:
+ ##4 Modeling:
         Goal: Build machine learning models that fulfill our defined objective.
         View the Jupyter Notebook for Modeling [here](link_to_jupyter_notebook).
 
