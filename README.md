@@ -20,4 +20,5 @@ In my data preprocessing strategy, I adopt an iterative approach that begins wit
 
  ##  4 Modeling
   - Goal: Build machine learning models that fulfill our defined objective.
+  - In this step, we will train multiple models, and our selection process involves choosing the model with the best performance. Subsequently, we aim to optimize this selected model using GridSearchCV. Finally, we'll explore how to strike a balance between recall and precision by analyzing precision-recall curves to further enhance our model's performance.
   - View the Jupyter Notebook for Modeling [here](link_to_jupyter_notebook).
