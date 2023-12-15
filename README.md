@@ -17,7 +17,7 @@ In my data preprocessing strategy, I adopt an iterative approach that begins wit
 - View the Jupyter Notebook for Preprocessing and intial model building  [here](https://github.com/youssafB/EDA-project-Cov19/blob/main/EDA-Cov19.ipynb).
 <!-- Adjust the width to your preference, e.g., width="600" -->
  <center>
-  <img src="https://github.com/youssafB/EDA-project-Cov19/blob/main/strategy.png" alt="Strategy image" width="700">
+  <img src="https://github.com/youssafB/EDA-project-Cov19/blob/main/strategy.png" alt="Strategy image" width="600">
 </center>
 
  ## 4 Modeling:
