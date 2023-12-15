@@ -6,12 +6,12 @@ In this project, my aim is to apply and enhance my theoretical knowledge by work
         
  ## 2 Exploratory Data Analysis (EDA):
   - Objective: Gain maximum understanding of the dataset to chose a robust modelization strategy.
-  - Check out the detailed EDA report for this project [here](https://github.com/youssafB/EDA-project-Cov19).
+  - Check out the detailed EDA report for this project [here](https://github.com/youssafB/EDA-project-Cov19/blob/main/EDA-Cov19.ipynb).
   - View the Jupyter Notebook for EDA [here](link_to_jupyter_notebook).
 
  ## 3 Data Preprocessing:
   - Objective: Transform the data into a suitable format for building the machine learning model.
-  - Data Preprocessing Strategy: In my data preprocessing strategy, I adopt an iterative approach that begins with essential preprocessing activities such as encoding categorical variables and handling missing values.
+  - Data Preprocessing Strategy: In my data preprocessing strategy, I adopt an iterative approach that begins with essential preprocessing activities such as encoding categorical variables and handling missing values.Following these basic preprocessing steps, I proceed to build my initial model.Based on the model evaluation and analysis, I selectively incorporate additional preprocessing steps to enhance the model. This stepwise refinement is driven by a conscious choice of preprocessing techniques tailored to the specific challenges and patterns identified during the evaluation phase.
 
  ## 4 Modeling:
   -Goal: Build machine learning models that fulfill our defined objective.
