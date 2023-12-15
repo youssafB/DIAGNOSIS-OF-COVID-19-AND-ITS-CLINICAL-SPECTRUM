@@ -1,0 +1,42 @@
+### Form Analysis
+
+    Target Variable: SARS-Cov-2 exam result
+    Rows and Columns: 5644 rows, 111 columns
+    Variable Types: 70 qualitative, 41 quantitative
+    Missing Values Analysis:
+        Numerous NaN values (over 90% for half of the variables)
+        Two data groups with 76% and 89% missing values, related to viral tests and blood levels
+
+### Background Analysis
+
+    Target Visualization:
+        10% positive cases (558 out of 5000)
+
+    Variable Significance:
+        Standardized continuous variables, skewed distributions, blood test results
+        Age quantile: Interpretation is challenging; these data seem processed, and clarity is lacking. While not crucial, it's worth investigating further.
+        Qualitative variable: Binary (0, 1), high occurrence of positive viral and Rhinovirus cases
+
+    Variables/Target Relationships:
+        Target/blood: Monocytes, Platelets, Leukocytes levels appear linked to COVID-19 - hypothesis to test
+        Target/age: Low-age individuals seem less affected - caution, age is unknown, and dataset date is unclear
+        Target/viral: Rare double infections, e.g., Rhinovirus/Enterovirus positive - COVID-19 negative, warrant further investigation
+
+### Detailed Analysis
+
+    Variable/Variable Relationships:
+        Blood_data/blood_data: Some variables highly correlated (+0.9, to monitor)
+        Blood_data/age: Weak correlation between age and blood levels
+        Viral/viral: Influenza rapid test shows poor results, consideration for exclusion
+        Disease/blood data relationship: Blood levels differ between sick and COVID-19 cases
+        Hospitalization/disease: Interesting for predicting patient service allocation
+
+    NaN Analysis:
+        Viral: 1350 (92/8), Blood: 600 (87/13), Both: 90
+
+### Null Hypotheses (H0)
+
+    Individuals with COVID-19 have significantly different Leukocytes, Monocytes, Platelets levels.
+        H0: Mean levels are EQUAL between positive and negative individuals.
+
+    Individuals with any disease have significantly different levels.
