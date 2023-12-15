@@ -5,9 +5,9 @@ In this project, my aim is to apply and enhance my theoretical knowledge by work
   Objective: Predict whether a person is affected by the coronavirus based on available clinical data with a recall rate of 70%.
         
  ## 2 Exploratory Data Analysis (EDA):
-        - Objective: Gain maximum understanding of the dataset to chose a robust modelization strategy.
-        - Check out the detailed EDA report for this project [here](https://github.com/youssafB/EDA-project-Cov19).
-        - View the Jupyter Notebook for EDA [here](link_to_jupyter_notebook).
+  - Objective: Gain maximum understanding of the dataset to chose a robust modelization strategy.
+  - Check out the detailed EDA report for this project [here](https://github.com/youssafB/EDA-project-Cov19).
+  - View the Jupyter Notebook for EDA [here](link_to_jupyter_notebook).
 
  ## 3 Data Preprocessing:
         - Objective: Transform the data into a suitable format for building the machine learning model.
