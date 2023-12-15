@@ -18,8 +18,6 @@ In my data preprocessing strategy, I adopt an iterative approach that begins wit
 <!-- Adjust the width to your preference, e.g., width="500" -->
 <img src="https://github.com/youssafB/EDA-project-Cov19/blob/main/strategy.png" alt="Strategy image" width="600">
 
- ##  4 Modeling:
- - Goal: Build machine learning models that fulfill our defined objective.
- - View the Jupyter Notebook for Modeling [here](link_to_jupyter_notebook).
-
-
+ ##  4 Modeling
+  - Goal: Build machine learning models that fulfill our defined objective.
+  - View the Jupyter Notebook for Modeling [here](link_to_jupyter_notebook).
