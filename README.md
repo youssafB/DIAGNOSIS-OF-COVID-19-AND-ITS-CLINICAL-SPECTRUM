@@ -6,7 +6,7 @@ In this project, my aim is to apply and enhance my theoretical knowledge by work
         
  ## 2 Exploratory Data Analysis (EDA):
         - Objective: Gain maximum understanding of the dataset to chose a robust modelization strategy.
-        - Check out the detailed EDA report for this project [here](link_to_eda_report).
+        - Check out the detailed EDA report for this project [here](https://github.com/youssafB/EDA-project-Cov19).
         - View the Jupyter Notebook for EDA [here](link_to_jupyter_notebook).
 
  ## 3 Data Preprocessing:
