@@ -1,3 +1,13 @@
+Certainly! Here's the content without using Markdown language:
+PROJECT: DIAGNOSIS OF COVID-19 AND ITS CLINICAL SPECTRUM
+
+In this project, my aim is to apply and enhance my theoretical knowledge by working with a real dataset related to the diagnosis of COVID-19 and its clinical spectrum. The specific strategy involves the following steps:
+1 Define a Measurable Objective:
+
+Objective: Predict whether a person is affected by the coronavirus based on available clinical data with a recall rate of 70%.
+
+
+
 # PROJECT: DIAGNOSIS OF COVID-19 AND ITS CLINICAL SPECTRUM
 In this project, my aim is to apply and enhance my theoretical knowledge by working with a real dataset related to the diagnosis of COVID-19 and its clinical spectrum. The specific strategy involves the following steps:
 
