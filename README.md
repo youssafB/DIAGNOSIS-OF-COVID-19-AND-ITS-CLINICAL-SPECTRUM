@@ -10,12 +10,12 @@ In this project, my aim is to apply and enhance my theoretical knowledge by work
   - View the Jupyter Notebook for EDA [here](link_to_jupyter_notebook).
 
  ## 3 Data Preprocessing:
-        - Objective: Transform the data into a suitable format for building the machine learning model.
-        - Data Preprocessing Strategy: In my data preprocessing strategy, I adopt an iterative approach that begins with essential preprocessing activities such as encoding categorical variables and handling missing values.
+  - Objective: Transform the data into a suitable format for building the machine learning model.
+  - Data Preprocessing Strategy: In my data preprocessing strategy, I adopt an iterative approach that begins with essential preprocessing activities such as encoding categorical variables and handling missing values.
 
  ## 4 Modeling:
-        Goal: Build machine learning models that fulfill our defined objective.
-        View the Jupyter Notebook for Modeling [here](link_to_jupyter_notebook).
+  -Goal: Build machine learning models that fulfill our defined objective.
+  -View the Jupyter Notebook for Modeling [here](link_to_jupyter_notebook).
 
 
 
