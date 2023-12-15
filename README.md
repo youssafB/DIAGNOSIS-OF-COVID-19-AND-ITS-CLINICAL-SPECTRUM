@@ -8,7 +8,7 @@ In this project, my aim is to apply and enhance my theoretical knowledge by work
   - Objective: Gain maximum understanding of the dataset to chose a robust modelization strategy.
   
   - View the Jupyter Notebook for EDA [here](https://github.com/youssafB/EDA-project-Cov19/blob/main/EDA-Cov19.ipynb).
-  -Check out the detailed EDA report for this project [here](https://github.com/youssafB/EDA-project-Cov19/blob/main/EDA%20Report).
+  - Check out the detailed EDA report for this project [here](https://github.com/youssafB/EDA-project-Cov19/blob/main/EDA%20Report).
 
 
  ## 3 Data Preprocessing:
