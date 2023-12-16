@@ -7,7 +7,7 @@ In this project, my aim is to apply and enhance my theoretical knowledge by work
  ## 2 Exploratory Data Analysis (EDA):
   - ***Objective***: Gain maximum understanding of the dataset to chose a robust modelization strategy.
   - ***Jupyter Notebook*** for EDA [here](https://github.com/youssafB/EDA-project-Cov19/blob/main/EDA-COV19%20.ipynb).
-  - ***Exploratory Data Analysis Report:*** For a detailed understanding of the dataset and valuable insights for data preprocessing and model building, an Exploratory Data Analysis (EDA) report has been generated. You can check the report [here](https://github.com/youssafB/EDA-project-Cov19/blob/main/EDA%20Report).
+  - ***Exploratory Data Analysis Report:*** For a detailed understanding of the dataset and valuable insights for data preprocessing and model building, an Exploratory Data Analysis (EDA) report has been generated. You can check the ***report*** [here](https://github.com/youssafB/EDA-project-Cov19/blob/main/EDA%20Report).
 
  ## 3 Data Preprocessing:
   - Objective: Transform the data into a suitable format for building the machine learning model.
