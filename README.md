@@ -18,6 +18,6 @@ In my data preprocessing strategy, I adopt an iterative approach that begins wit
 <img src="https://github.com/youssafB/EDA-project-Cov19/blob/main/strategy.png" alt="Strategy image" width="600">
 
  ##  4 Modeling
-  - Goal: Build machine learning models that fulfill our defined objective.
-  - In this step, we will train multiple models, and our selection process involves choosing the model with the best performance. Subsequently, we aim to optimize this selected model using GridSearchCV. Finally, we'll explore how to strike a balance between recall and precision by analyzing precision-recall curves to further enhance our model's performance.
-  - View the Jupyter Notebook for Modeling [here](https://github.com/youssafB/PROJECT-DIAGNOSIS-OF-COVID-19-AND-ITS-CLINICAL-SPECTRUM/blob/main/Modelisation.ipynb).
+  - ****Goal***: Build machine learning models that fulfill our defined objective.
+  - ****Strategy**** : In this step, we will train multiple models, and our selection process involves choosing the model with the best performance. Subsequently, we aim to optimize this selected model using GridSearchCV. Finally, we'll explore how to strike a balance between recall and precision by analyzing precision-recall curves to further enhance our model's performance.
+  - View the ****Jupyter Notebook*** for Modeling [here](https://github.com/youssafB/PROJECT-DIAGNOSIS-OF-COVID-19-AND-ITS-CLINICAL-SPECTRUM/blob/main/Modelisation.ipynb).
